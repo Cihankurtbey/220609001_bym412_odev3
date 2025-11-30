@@ -16,7 +16,7 @@ Tüm sistem Docker içinde çalıştırılabilir şekilde hazırlanmıştır; ho
 
 ---
 
-## Klasör Yapısı (kısaca)
+## Klasör Yapısı 
 
 bym412_odev3/
 ├── Dockerfile
